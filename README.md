@@ -16,7 +16,8 @@ There is a bug in the Simulator and in Android, that seems to don't export that 
 
 ## Thank you
 
-[@SergioMorchon](https://github.com/SergioMorchon).
+[@SergioMorchon](https://github.com/SergioMorchon)
+
 @monolachedan
 
 ## License
