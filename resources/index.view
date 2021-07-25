@@ -1,0 +1,7 @@
+<svg class="background">
+  <text id="time">13:37</text>
+  <image id="w_icon" href="weather/1.png" />
+  <text id="w_cond">Sunny</text>
+  <text id="w_temp">32</text>
+  <text id="w_loc">London</text>
+</svg>
